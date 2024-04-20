@@ -1,7 +1,7 @@
 # Health Facilities App
 Health facilities is a full-stack web application that leverages GeoDjango, Nginx, Node, and React to visualize the health facilities located in Kenya. The goal of this project is to showcase, to especially beginners and mid-level web developers, the use of backend and frontend technologies in crafting an interactive web application.
 
-![health-facilities](https://github.com/jkariscodes/health-facilities/assets/23359514/2a3c45fb-c4cf-4c75-b4df-eaa690c177a0)
+![health-facilities](https://github.com/brankopoledic/health-facilities/assets/23359514/2a3c45fb-c4cf-4c75-b4df-eaa690c177a0)
 
 
 ## Table of Contents
@@ -49,7 +49,7 @@ __Note__: Data used in this project has been sourced from [The Humanitarian Data
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jkariukidev/health-facilities.git
+   git clone https://github.com/brankopoledic/health-facilities.git
    cd health-facilities
    
 2. Install Docker with these instructions.
